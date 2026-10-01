@@ -1,16 +1,16 @@
-## Hi there 👋
+```zsh
+> Cheat ? Nah, just play different
+```
 
-<!--
-**Clouds235/Clouds235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://i.imgur.com/c7As8X9.png" alt="Logo.jpg" width="200" /> 
 
-Here are some ideas to get you started:
+```csharp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Clouds ~> Fastfetch
+----------------
+       OS  :  Nyarch | Ryoku
+      CPU  :  ???
+      GPU  :  ???
+      RAM  :  ???
+Languages  :  C | Html | Discord.js
+```
